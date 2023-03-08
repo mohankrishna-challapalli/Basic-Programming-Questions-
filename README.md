@@ -1,2 +1,2 @@
-# CS-Fundamentals 
-This is the basic repo consists of all basics programming questions 
+<h1>Basic Programming Questions</h1>
+<p> This repo contains basic c programming quesions in c language </p>
